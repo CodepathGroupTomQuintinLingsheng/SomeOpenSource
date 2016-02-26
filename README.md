@@ -14,3 +14,5 @@ https://github.com/Yalantis/Koloda
 Great animation for login:
 https://github.com/entotsu/TKSubmitTransition
 
+QR Code image generator:
+https://github.com/aschuch/QRCode

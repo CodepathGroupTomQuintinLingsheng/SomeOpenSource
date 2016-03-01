@@ -16,3 +16,12 @@ https://github.com/entotsu/TKSubmitTransition
 
 QR Code image generator:
 https://github.com/aschuch/QRCode
+
+Very good alert:
+https://github.com/morizotter/SwiftyDrop
+
+TextField:
+https://github.com/raulriera/TextFieldEffects
+
+The first time load guide:
+https://github.com/ariok/BWWalkthrough

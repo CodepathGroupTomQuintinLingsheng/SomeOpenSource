@@ -25,3 +25,6 @@ https://github.com/raulriera/TextFieldEffects
 
 The first time load guide:
 https://github.com/ariok/BWWalkthrough
+
+custonmized tabbar:
+https://github.com/Ramotion/adaptive-tab-bar
